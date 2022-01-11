@@ -6,11 +6,11 @@ create table employees(
 
 2. Наполнить таблицу employee 70 строками.
 insert into employees(employee_name)
-values ('Dmitry Krylov'),
-	   ('Kovalev Pavel'),
-	   ('Rogozin Oleg'),
-	   ('Ushat Pomoev'),
-	   ('Murat Nastoev'),
+values ('Pavel Buzin'),
+	   ('Alina Volovich'),
+	   ('Larisa Korol'),
+	   ('Sergey Kaplichnyi'),
+	   ('Anatoliy Vasserman'),
 	   ('Surgat Otstoev'),
 	   ('Liza Evdokimova'),
 	   ('Anastasia Krishko'),
